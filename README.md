@@ -7,4 +7,5 @@ After working through the tutorial, you should have a clearer idea of:
 * how data can be accessed, processed and retrieved with the help of a WC(P)S, and 
 * how WC(P)S requests can easily be integrated into processing routines or used to build custom web-applications.
 
-For any questions related to the WCS service, please contact us via earthserver@lists.ecmwf.int
+### NOTE: <br>
+The service the examples are based on was switched off. The examples help you anyway to see how OGC web service requests are built and can be used as part of the geospatial data analysis workflow.
