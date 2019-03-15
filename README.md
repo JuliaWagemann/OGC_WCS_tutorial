@@ -1,4 +1,4 @@
-# Geospatial data access via standard web services | Tutorial
+# 2016 - Geospatial data access via standard web services | Tutorial
 This tutorial is a series of IPython Notebooks that provides (i) a general introduction to web standards for geospatial data and (ii) practical hands-on exercises how to access, retrieve and process data served with a WCS server. 
 
 After working through the tutorial, you should have a clearer idea of: 
